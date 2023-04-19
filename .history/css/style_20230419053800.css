@@ -1583,7 +1583,7 @@ a:focus {
 
 @media (max-width: 575.98px) {
     .footer{
-        position: relative !important;
+        position: relative;
     }
     .footer .footer-info h2 {
         margin-bottom: 20px;
